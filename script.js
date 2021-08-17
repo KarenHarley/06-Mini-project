@@ -1,6 +1,6 @@
 //Karen is here
 
-var searchBtn = document.querySelector("#search-Btn"); //to that it applies to all ??? 
+var searchBtn = document.querySelector("#search-Btn"); 
 var formatInput = document.getElementById("format-input");
 var searchInput = document.getElementById("search-input");
 var otherHtml = "./search-results.html";

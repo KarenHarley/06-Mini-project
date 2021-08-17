@@ -11,6 +11,7 @@ var placeWhereInfoGoes = document.getElementById("result-content");
 //if they search something else i need to replace it search and format
 
 getInfo();
+
 function getInfo(search, format) {
   var search = localStorage.getItem("search"); //getting the variables form the other file
   var format = localStorage.getItem("format");
