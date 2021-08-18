@@ -14,6 +14,15 @@
 
 ![The search results page displays results from a search conducted in the form on the left side of the page.](./pics/pic2.png)
 
+# Technologies used
+
+1. jQuery
+2. CSS
+3. HTML
+
+## Contact Info 
+
+KarenHarley88@gmail.com
 #### Links:
 
 Github:
