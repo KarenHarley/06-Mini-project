@@ -10,7 +10,7 @@
 2. See a brief description of searched information.
 3. Access full article, picture etc with the Read More button.
 
-### Picture of Website:
+### Pictures:
 
 ![The home page shows a search bar with the ability to select a format from a dropdown menu.](./pics/pic1.png)
 
